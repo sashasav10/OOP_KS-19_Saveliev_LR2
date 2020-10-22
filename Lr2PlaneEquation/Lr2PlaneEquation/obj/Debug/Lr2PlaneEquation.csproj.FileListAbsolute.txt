@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lr2PlaneEquation\Lr2PlaneEquation\bin\Debug\Lr2PlaneEquation.exe.config
+C:\Users\user\source\repos\Lr2PlaneEquation\Lr2PlaneEquation\bin\Debug\Lr2PlaneEquation.exe
+C:\Users\user\source\repos\Lr2PlaneEquation\Lr2PlaneEquation\bin\Debug\Lr2PlaneEquation.pdb
+C:\Users\user\source\repos\Lr2PlaneEquation\Lr2PlaneEquation\obj\Debug\Lr2PlaneEquation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lr2PlaneEquation\Lr2PlaneEquation\obj\Debug\Lr2PlaneEquation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lr2PlaneEquation\Lr2PlaneEquation\obj\Debug\Lr2PlaneEquation.exe
+C:\Users\user\source\repos\Lr2PlaneEquation\Lr2PlaneEquation\obj\Debug\Lr2PlaneEquation.pdb

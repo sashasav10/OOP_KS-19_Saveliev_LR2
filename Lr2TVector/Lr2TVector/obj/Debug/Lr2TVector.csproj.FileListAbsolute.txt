@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lr2TVector\Lr2TVector\bin\Debug\Lr2TVector.exe.config
+C:\Users\user\source\repos\Lr2TVector\Lr2TVector\bin\Debug\Lr2TVector.exe
+C:\Users\user\source\repos\Lr2TVector\Lr2TVector\bin\Debug\Lr2TVector.pdb
+C:\Users\user\source\repos\Lr2TVector\Lr2TVector\obj\Debug\Lr2TVector.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lr2TVector\Lr2TVector\obj\Debug\Lr2TVector.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lr2TVector\Lr2TVector\obj\Debug\Lr2TVector.exe
+C:\Users\user\source\repos\Lr2TVector\Lr2TVector\obj\Debug\Lr2TVector.pdb
